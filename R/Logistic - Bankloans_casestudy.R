@@ -1,6 +1,6 @@
 # Objective: 
 # We have to predict whether a New Customer will Default or Not ?
-# New_Cust = All those rows[150 records at the end] where Default is missing 
+# New_Cust = All those rows[150 records at the end] where Default is missing
 # ___________________________________________________________________
 
 #Set Directory
